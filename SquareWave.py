@@ -4,6 +4,9 @@
 Created on Wed Feb 19 11:41:53 2020
 
 @author: ctralie
+
+Purpose: To show how to make an approximation of the square wave
+with different sinusoids using a loop
 """
 
 import numpy as np

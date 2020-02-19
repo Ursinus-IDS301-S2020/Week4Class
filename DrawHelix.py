@@ -10,7 +10,7 @@ for i in range(n_points):
     x = np.cos(thetas[i])
     y = np.sin(thetas[i])
     z = thetas[i]/10
-    spheres.append(sphere(pos=vector(x, y, z), radius=0.1, color=color.red))
+    spheres.append(sphere(pos=vector(x, y, z), radius=0.1, color=color.cyan))
 
 tic = time.time()
 while True:

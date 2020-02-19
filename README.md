@@ -13,6 +13,7 @@
 * ArithmeticSeries.py
 * SquareWaveApprox.py
 * CircleSamples.py
+* RandomWalk.py (useful example for Chaos Game assignment)
 * DrawHelix.py (demonstrating vpython)
 
 ## Other
