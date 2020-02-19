@@ -27,4 +27,5 @@ def get_damage(richter):
         print("We're cool")
 
 print("Input richter: ")
-get_damage(float(input()))
+richter_in = float(input())
+get_damage(richter_in)
